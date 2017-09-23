@@ -1,3 +1,5 @@
+//shit+tab to reduce tabspace && tab to increase tabspace
+//back-quote (`) instead of single-quote (') in case of multi-line strings in javascript
 var express = require('express');
 var morgan = require('morgan');
 var path = require('path');
